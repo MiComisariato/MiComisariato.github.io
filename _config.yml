@@ -1,4 +1,4 @@
-title: Hello, world! I'm David Freeman
+title: Proyecto segundo parcial de Introduccion a la inguieneria en software
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,8 +9,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
+author: Alfredo Czarninski # add your name
+author-img: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vistazo.com%2Fseccion%2Fgente%2Funa-historia-de-vision-y-perseverancia&psig=AOvVaw3wmv0rY4Be-gaysXzliFqp&ust=1602110749779000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCFy-SFoewCFQAAAAAdAAAAABAD
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
