@@ -11,12 +11,10 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Alfredo Czarninski # add your name
 author-img: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vistazo.com%2Fseccion%2Fgente%2Funa-historia-de-vision-y-perseverancia&psig=AOvVaw3wmv0rY4Be-gaysXzliFqp&ust=1602110749779000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCFy-SFoewCFQAAAAAdAAAAABAD
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+about-author: Fue un comerciante y filántropo israelí, creador del Grupo El Rosado y Mi Comisariato. # add description
+social-twitter: @mi_comisariato # add your Twitter handle
+social-facebook: micomisariatoec # add your Facebook handle
+social-email: servicioalcliente@elrosado.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
