@@ -3,8 +3,8 @@ layout: post
 title: Fundador
 date: 2020-10-08 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: Alfredo Czarninski,.jpg # Add image post (optional)
-tags: [Js, Conference] # add tag
+img: Fundador(a) # Add image post (optional)
+tags:  # add tag
 ---
 Biografia de Alfredo Czarninski creador de grupo El rosado y Micomisariato
 Nació el 30 de agosto de 1916 en el pueblo de Prostken, en la Prusia oriental alemana. Estudió la primaria en su pueblo natal y la secundaria en el Liceo de Berlín, la cual dejó más tarde debido a los malos tratos de sus compañeros y el nazismo que predominada en ese entonces. Después de dejar el colegio trabajó como vendedor en una tienda de variedades. A los 20 años viajó junto a un amigo judío polaco de su padre en un trasatlántico hasta San José de Costa Rica, donde en el Consulado del Ecuador se le facilitó la visa para llegar a Guayaquil.
