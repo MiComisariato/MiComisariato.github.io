@@ -7,7 +7,7 @@ img: hermanas.jpg  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
-Todo empezó en 1966 cuando Don Alfredo Cañizares tenía una pequeña pastelería llamada al rosé ubicada en el tradicional Bulevar 9 de Octubre, poco a poco con la ayuda de su esposa Ruth, fueron consolidando la idea de un establecimiento diferente donde algo más que  se vendieron deliciosos dulces.  
+Todo empezó en 1966 cuando Don Alfredo Cañizares tenía una pequeña pastelería llamado El Rosado ubicada en el tradicional Bulevar 9 de Octubre, poco a poco con la ayuda de su esposa Ruth, fueron consolidando la idea de un establecimiento diferente donde algo más que  se vendieron deliciosos dulces.  
 Así nació un nuevo proyecto que se convirtió en el restaurante El Rosado con el mismo nombre de la pastelería y con sillas de ese color es un salón ubicado en la avenida 9 de octubre entre García Avilés y boyacá, el éxito fue tal que se convirtió en  el sitio obligado de reuniones, sociales y culturales de los últimos años de la década del 40 y de 50 el presidente de José María Velasco Ibarra estuvo varias veces allí es usando el toque extranjero Y criollo que tenían los platos de El Rosado.
 
 ## Empresas Hermanas
