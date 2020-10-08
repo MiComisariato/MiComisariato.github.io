@@ -22,8 +22,8 @@ Precio de afiliado en todas sus compras.
 Tarjeta adicional sin costo para el cónyuge.
 Disfrute de grandes ventajas en los establecimientos afiliados al Club de Beneficios
 Cada beneficio depende de la tarjeta que se utilizar de las cuales se pueden como Tarjeta mi comisariato ilimittado son las sgts:
-Personal
-Bankard
-PacifiCard
-Diners Club International
-Banco de Machala
+Personal,
+Bankard,
+PacifiCard,
+Diners Club International,
+Banco de Machala.
