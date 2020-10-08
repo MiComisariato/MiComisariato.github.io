@@ -9,9 +9,9 @@ url:  # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Alfredo Czarninski # add your name
+author: Mi Comisariato # add your name
 author-img: descarga.png
-about-author: Fue un comerciante y filántropo israelí, creador del Grupo El Rosado y Mi Comisariato. # add description
+about-author: Mi Comisariato es una de las cadenas de supermercados más importantes del país, en donde la familia ecuatoriana encuentra la mayor variedad de productos nacionales e importados a menor precio. Además ofrece una gran variedad de productos de marcas propias que combinan calidad y bajo precio. # add description
 social-twitter: mi_comisariato # add your Twitter handle
 social-facebook: micomisariatoec # add your Facebook handle
 social-email: servicioalcliente@elrosado.com # add your Email address
