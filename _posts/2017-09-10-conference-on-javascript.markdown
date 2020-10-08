@@ -6,7 +6,9 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img:  Fundador(a) # Add image post (optional)
 tags:  # add tag
 ---
+---
 Biografia de Alfredo Czarninski creador de grupo El rosado y Micomisariato
+---
 Nació el 30 de agosto de 1916 en el pueblo de Prostken, en la Prusia oriental alemana. Estudió la primaria en su pueblo natal y la secundaria en el Liceo de Berlín, la cual dejó más tarde debido a los malos tratos de sus compañeros y el nazismo que predominada en ese entonces. Después de dejar el colegio trabajó como vendedor en una tienda de variedades. A los 20 años viajó junto a un amigo judío polaco de su padre en un trasatlántico hasta San José de Costa Rica, donde en el Consulado del Ecuador se le facilitó la visa para llegar a Guayaquil.
 
 Estuvo hospedado en Guayaquil y se asoció a un vecino alemán que tenía un local rosado donde se vendían cakes, tortas, helados y jugo de frutas, invirtiendo su dinero con él, el cual al día siguiente se fue sin volver nunca más. Pasó un año para que Alfredo Czarninski aprendiera el español y en 1938 es nacionalizado ecuatoriano. Luego de esto envió visas ecuatorianas a su familia y su novia Ruth Baier, y desde entonces vivieron en Ecuador.
