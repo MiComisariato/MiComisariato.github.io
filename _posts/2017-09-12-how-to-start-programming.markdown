@@ -21,9 +21,11 @@ Precio de afiliado en todas sus compras.
 10% de descuento en su primera compra en Ferrisariato, Río Store o Mi Juguetería.
 Tarjeta adicional sin costo para el cónyuge.
 Disfrute de grandes ventajas en los establecimientos afiliados al Club de Beneficios
-Cada beneficio depende de la tarjeta que se utilizar de las cuales se pueden como Tarjeta mi comisariato ilimittado son las sgts:
+Cada beneficio depende de la tarjeta que se utilizar de las cuales se pueden como Tarjeta mi comisariato ilimittado son las siguientes:
 Personal,
 Bankard,
 PacifiCard,
 Diners Club International,
 Banco de Machala.
+Los beneficios de las tarjetas empresariales son los siguientes:
+3 Compradores autorizados,Asigna un cupo por comprador,Paga los consumos a fin de mes, Controla tus gastos
