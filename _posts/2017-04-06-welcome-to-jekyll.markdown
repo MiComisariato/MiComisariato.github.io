@@ -5,22 +5,5 @@ date: 2020-10-08 14:11:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img:  historiadelaempresa.jpg  # Add image post (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Mi Comisariato es una cadena de supermercados de Ecuador perteneciente a Grupo El Rosado. Fue fundada en 1958 por Alfredo Czarninski, quien abrió en las calles Nueve de Octubre y Boyacá de la ciudad de Guayaquil el "Supermercado El Rosado", que fue el primer local de autoservicios de Ecuador y que con el tiempo dio lugar a Mi Comisariato.​
+Hasta septiembre de 2008, Mi Comisariato poseía 26 locales a lo largo del país, además de 9 incluidos bajo el modelo Hipermarket. En el año 2012, Mi Comisariato (junto con las otras marcas de El Rosado) facturó $867,83 millones de dólares, lo que ubicó a Grupo El Rosado como la cuarta empresa más grande de Ecuador​ y la segunda del tipo de autoservicios, luego de Corporación Favorita C.A.
